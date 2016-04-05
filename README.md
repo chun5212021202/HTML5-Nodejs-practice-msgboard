@@ -1,5 +1,5 @@
-# HTML5-practice-message-board
-a simple message board using HTML5 and Node.js
+# HTML5&Nodejs-practice-msgboard
+It is a simple message board using HTML5 and Node.js
 
 Features:
 
